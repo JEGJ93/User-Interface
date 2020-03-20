@@ -64,3 +64,116 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body {
+	width: 90%;
+	margin: auto;
+}
+
+a {
+	text-decoration: none;
+	color: gray;
+}
+
+img {
+	width: auto;
+}
+
+.nav {
+	margin: 1%;
+	padding: 1%;
+	width: 100%;
+}
+
+.nav a {
+	margin: 3%;
+
+}
+
+.content {
+	margin: 1%;
+	width: 100%;	
+}
+
+.main {
+	/* display: inline-block;
+	vertical-align: top;*/
+	margin: 5% 0 0 5%;
+	width: 40%;
+}
+
+.top-box {
+	display: inline-block;
+	margin: 1%;
+	border-top: 1px solid black;
+	padding: 25px;
+
+}
+
+.info {
+	width: 48%;
+	display: inline-block;
+}
+
+.info2 {
+	display: inline-block;
+	width: 33%;
+	padding: 25px;
+}
+
+h1 {
+	text-align: center;
+	margin: 70px 30px 0px 90px; 
+	font-size: 90px; 
+}
+
+.main1 {
+	display: inline-block;
+	text-align: center;
+	margin-bottom: 4%;
+	margin-top: 4%;
+}
+
+.bottom-box {
+	border-bottom: 1px solid black;
+}
+
+.contact2 {
+	margin: 20px;
+}
+
+.address {
+	margin: 1%;
+}
+
+.number {
+	margin: 1%;
+}
+
+.email {
+	margin: 1%;
+}
+
+.footer {
+	text-align: center;
+	margin: 1%;
+	padding: 5%;
+}
+
+.logo {
+	margin: 0 0 0 150px;
+
+}
+
+.middle-img {
+	width: 100%;
+}
+
+.button {
+	padding: 6px 20px;
+	Border: 1px solid black;
+	font-size: 15px;
+	margin-top: 10px;
+	background-color: white;
+	font: inherit;
+}
